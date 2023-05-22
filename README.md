@@ -1,5 +1,5 @@
 # README_Homework
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=23.05.22 과제(깃헙 README 페이지 만들기)&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="23.05.22 과제(깃헙 README 페이지 만들기)"&fontSize=90" />
 
 ---
 <p align="center">
