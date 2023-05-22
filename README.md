@@ -5,7 +5,7 @@
   <img src="https://github.com/Bitanee/README_Homework/assets/97078968/d68902cd-46e8-4457-88eb-3ef67c487c62">
 </p>
 
-<img src="https://img.shields.io/badge/리액트-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C언어-3178C6?style=flat&logo=c&logoColor=white"/>
 
 **리눅스 명령어 중에서 top, ps, jobs, kill 명령어에 대해서 조사해보자!**
 
