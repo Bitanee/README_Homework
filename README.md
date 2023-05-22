@@ -2,7 +2,7 @@
 23.05.22 과제(깃헙 README 페이지 만들기)
 ---
 <p align="center">
-  <img src="[이미지URL](https://github.com/Bitanee/README_Homework/assets/97078968/d68902cd-46e8-4457-88eb-3ef67c487c62)">
+  <img src="https://github.com/Bitanee/README_Homework/assets/97078968/d68902cd-46e8-4457-88eb-3ef67c487c62">
 </p>
 **리눅스 명령어 중에서 top, ps, jobs, kill 명령어에 대해서 조사해보자!**
 
