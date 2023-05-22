@@ -7,7 +7,9 @@
 
 <img src="https://img.shields.io/badge/C언어-A8B9CC?style=flat&logo=c&logoColor=white"/>
 
+<span style="color:green">
 **리눅스 명령어 중에서 top, ps, jobs, kill 명령어에 대해서 조사해보자!**
+</span>
 
 >top: 시스템 프로세스/메모리 사용 현황을 실시간으로 출력한다.
 
